@@ -1,0 +1,5 @@
+projectKey=org.sonarqube:xml-sq-scanner
+serverUrl=http://localhost:9000/sonar
+dashboardUrl=http://localhost:9000/sonar/dashboard/index/org.sonarqube:xml-sq-scanner
+ceTaskId=AVf313VVjGSismi1S5op
+ceTaskUrl=http://localhost:9000/sonar/api/ce/task?id=AVf313VVjGSismi1S5op
